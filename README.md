@@ -5,10 +5,14 @@
 
 👯 Estoy buscando colaborar en proyectos relacionados con la aplicación de análisis de datos en astronomía.
 
-🤔 Estoy buscando ayuda con la optimización y mejora del rendimiento de la base de datos que estoy diseñando.
+🤔 Estoy buscando ayuda con la optimización de la base de datos que estoy diseñando y añadir información real.
 
 💬 Puedes preguntarme sobre astronomía, análisis de datos, diseño de bases de datos o cualquier cosa relacionada con gatos y tejido.
 
 📫 Puedes contactarme a través de mi correo electrónico [kathe.meza.27@gmail.com] o a través de mi perfil en GitHub.
 
 ⚡ Dato curioso: ¡Tengo tres gatos y a menudo los incorporo en mis sesiones de tejido!
+
+## Herramientas en las que me destaco:
+
+![]
