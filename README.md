@@ -15,9 +15,9 @@
 ## Herramientas en las que me destaco:
 
 **Python:** 
-  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/>
 
 - **SQL:**
-  ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/>
 
 ⚡ Dato curioso: ¡Tengo tres gatos y a menudo los incorporo en mis sesiones de tejido!
