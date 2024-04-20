@@ -5,7 +5,7 @@
 
 👯 Estoy buscando colaborar en proyectos relacionados con la aplicación de análisis de datos en astronomía.
 
-🤔 Estoy buscando ayuda con la optimización de la base de datos que estoy diseñando y añadir información real.
+🤔 Estoy buscando nuevos datos reales para añadir a mi proyecto.
 
 💬 Puedes preguntarme sobre astronomía, análisis de datos, diseño de bases de datos o cualquier cosa relacionada con gatos y tejido.
 
