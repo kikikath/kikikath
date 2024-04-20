@@ -1,4 +1,4 @@
-### ¡Hola! Mi nombre es Katherine Maldonado, soy una apasionada por la astronomía y los retos computacionales. Bienvenido a mi perfil! 👋
+## ¡Hola! Mi nombre es Katherine Maldonado, soy una apasionada por la astronomía y los retos computacionales. Bienvenido a mi perfil! 👋
 
 
 🔭 Actualmente estoy trabajando en el diseño de una base de datos para la gestión del riesgo y desastre en Antioquia, como parte de mi proyecto en el bootcamp Data Analyst de Makaia. Allí estoy aprendiendo técnicas avanzadas de análisis de datos y explorando nuevas herramientas de visualización.
@@ -11,8 +11,13 @@
 
 📫 Puedes contactarme a través de mi correo electrónico [kathe.meza.27@gmail.com] o a través de mi perfil en GitHub.
 
-⚡ Dato curioso: ¡Tengo tres gatos y a menudo los incorporo en mis sesiones de tejido!
 
 ## Herramientas en las que me destaco:
 
-![]
+**Python:** 
+  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+- **SQL:**
+  ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+
+⚡ Dato curioso: ¡Tengo tres gatos y a menudo los incorporo en mis sesiones de tejido!
