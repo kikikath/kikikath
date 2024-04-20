@@ -1,16 +1,14 @@
-### Hi there 👋
+### ¡Hola! Mi nombre es Katherine Maldonado, soy una apasionada por la astronomía y los retos computacionales. Bienvenido a mi perfil! 👋
 
-<!--
-**kikikath/kikikath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en el diseño de una base de datos para la gestión del riesgo y desastre en Antioquia, como parte de mi proyecto en el bootcamp Data Analyst de Makaia. Allí estoy aprendiendo técnicas avanzadas de análisis de datos y explorando nuevas herramientas de visualización.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Estoy buscando colaborar en proyectos relacionados con la aplicación de análisis de datos en astronomía.
+
+🤔 Estoy buscando ayuda con la optimización y mejora del rendimiento de la base de datos que estoy diseñando.
+
+💬 Puedes preguntarme sobre astronomía, análisis de datos, diseño de bases de datos o cualquier cosa relacionada con gatos y tejido.
+
+📫 Puedes contactarme a través de mi correo electrónico [kathe.meza.27@gmail.com] o a través de mi perfil en GitHub.
+
+⚡ Dato curioso: ¡Tengo tres gatos y a menudo los incorporo en mis sesiones de tejido!
