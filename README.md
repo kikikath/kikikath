@@ -1,4 +1,4 @@
-## ¡Hola! Mi nombre es Katherine Maldonado, soy una apasionada por la astronomía y los retos computacionales. Bienvenido a mi perfil! 👋
+## ¡Hola! Mi nombre es Shirley Maldonado, astrónoma y científica de datos. Bienvenido! 
 
 
 🔭 Actualmente estoy trabajando en el diseño de una base de datos para la gestión del riesgo y desastre en Antioquia, como parte de mi proyecto en el bootcamp Data Analyst de Makaia. Allí estoy aprendiendo técnicas avanzadas de análisis de datos y explorando nuevas herramientas de visualización.
