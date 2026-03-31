@@ -1,12 +1,6 @@
 ## ¡Hola! Mi nombre es Shirley Maldonado, astrónoma y científica de datos. Bienvenido! 
 
-
-Trabajo con datos desde hace un par de años. Mi enfoque está en el análisis estadístico riguroso y en comunicar resultados de tal forma que sean útiles para quien toma decisiones, no solo para quien los produjo. 
-Inglés C1.
-# Shirley Maldonado
-**Data Analyst · Data Scientist**
-
-Tengo formación en Astronomía y trabajo con datos desde hace un par de años. Mi enfoque está en el análisis estadístico riguroso y en comunicar resultados de forma que sean útiles para quien toma decisiones, no solo para quien los produjo. Inglés C1.
+Trabajo con datos desde hace un par de años. Mi enfoque está en el análisis estadístico riguroso y en comunicar resultados de forma que sean útiles para quien toma decisiones, no solo para quien los produjo. Inglés C1.
 
 ---
 
