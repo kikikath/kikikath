@@ -1,4 +1,4 @@
-## ¡Hola! Mi nombre es Shirley Maldonado, astrónoma y científica de datos. Bienvenido! 
+## ¡Hola! Mi nombre es Shirley Maldonado, astrónoma y científica de datos. 
 
 Trabajo con datos desde hace un par de años. Mi enfoque está en el análisis estadístico riguroso y en comunicar resultados de forma que sean útiles para quien toma decisiones, no solo para quien los produjo. Inglés C1.
 
@@ -50,7 +50,7 @@ Trabajé en el equipo de Ciencia de Datos del área de experiencia del cliente d
 
 ## Proyectos
 
-**[Predicción del valor de la energía eléctrica](https://github.com/TUUSUARIO/energia-electrica-lstm)**
+**[Predicción del valor de la energía eléctrica]()**
 Proyecto académico en equipo. Procesamos datos históricos de XM y construimos modelos LSTM en TensorFlow/Keras para pronosticar el valor del kWh a corto y mediano plazo.
 
 **[Gestión del riesgo y desastre en Antioquia](https://github.com/TUUSUARIO/riesgo-antioquia)**
@@ -70,7 +70,7 @@ Proyecto de cierre del Bootcamp de Betek, presentado en Open House ante audienci
 
 ---
 
-[LinkedIn](https://linkedin.com/in/shirley-maldonado) · [kathe.meza.27@gmail.com](mailto:kathe.meza.27@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shirley-katherine-maldonado-64424b205/) · [kathe.meza.27@gmail.com](mailto:kathe.meza.27@gmail.com)
 
 ---
 
