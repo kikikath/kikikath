@@ -53,7 +53,7 @@ Trabajé en el equipo de Ciencia de Datos del área de experiencia del cliente d
 **[Predicción del valor de la energía eléctrica]()**
 Proyecto académico en equipo. Procesamos datos históricos de XM y construimos modelos LSTM en TensorFlow/Keras para pronosticar el valor del kWh a corto y mediano plazo.
 
-**[Gestión del riesgo y desastre en Antioquia](https://github.com/TUUSUARIO/riesgo-antioquia)**
+**[Gestión del riesgo y desastre en Antioquia](https://github.com/kikikath/Proyecto-Makaia/tree/main)**
 Proyecto de cierre del Bootcamp de Betek, presentado en Open House ante audiencia externa. Diseñé el modelo relacional en MySQL, realicé el análisis exploratorio en Python y construí un tablero en Power BI con el histórico de desastres y zonas de riesgo del departamento.
 
 ---
